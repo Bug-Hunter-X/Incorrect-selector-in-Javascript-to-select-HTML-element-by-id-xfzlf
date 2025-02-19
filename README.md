@@ -1,0 +1,1 @@
+This repository contains an example of a uncommon bug in HTML. The bug is related to incorrect selector in Javascript to select HTML element by id. Using #myDiv instead of "myDiv". The solution shows the correct way to select an element by its ID.
